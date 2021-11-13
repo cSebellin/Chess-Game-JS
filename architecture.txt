@@ -1,0 +1,15 @@
+I. Le jeu des échec sera diviser en plusieurs sections
+
+    1. La gestion des joueurs :
+        - 2 joueurs 
+        - Qui joue ?
+        - Quand est-ce que le joueur change
+        - 
+    2. Le déplacement des pièces :
+        - Selectionner la pièce à déplacer et récupérer son emplacement
+        - Selectionner la destionation de la pièce
+    3. Les règles de jeu :
+        - Attribuer des rôles et des restrictions aux pièces : Exemple le fou, ne peut aller que diagonale
+        - Si une pièce écrase une autre la pièce doit disparaître
+        - Si une pièce disparaît elle doit apparaître sur le côté du borad game.
+    4. Le score :
